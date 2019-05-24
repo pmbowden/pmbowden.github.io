@@ -151,3 +151,19 @@ footer{
     background-color: #2a73fa;
     text-align: center;
 }
+
+/*----------------- About------------------------------ */
+
+/* main-col */
+
+article#main-col{
+    float: left;
+    width: 65%
+}
+
+/* sidebar */
+
+aside#sidebar{
+    float: right;
+    width: 30%;
+}
